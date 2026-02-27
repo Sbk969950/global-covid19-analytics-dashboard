@@ -24,7 +24,7 @@ This Power BI dashboard analyzes global COVID-19 data, highlighting trends in to
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](image/dashboard-preview.png)
+![Dashboard](Analysis-preview.png1,Analysis-preview.png2)
 
 ---
 
